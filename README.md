@@ -14,17 +14,6 @@ A minimal scoreboard web app to track Home and Guest scores, with a clean UI, re
 - CSS3 (Flexbox, @font-face)
 - Vanilla JavaScript
 
-## 📂 Project Structure
-scoreboard/
-├── index.html
-├── style.css
-├── index.js
-├── .gitignore
-└── fonts/
-    ├── scoreboard.ttf
-    └── mont.otf
-
-
 ## 🚀 Quick Start
 1. Clone the repo:
    ```bash
