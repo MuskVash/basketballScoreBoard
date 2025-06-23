@@ -2,8 +2,7 @@
 
 A minimal scoreboard web app to track Home and Guest scores, with a clean UI, reset functionality, and custom fonts — built using HTML, CSS, and JavaScript.
 
-🔗 **Live Demo**: [View on Netlify](https://your-netlify-link.netlify.app)
-
+🔗 **Live Demo**: [View on Netlify](https://muskbasketballscorecard.netlify.app/)
 ## ✨ Features
 - Add +1, +2, +3 to Home or Guest
 - Reset scores instantly
